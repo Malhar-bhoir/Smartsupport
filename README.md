@@ -24,19 +24,20 @@ SmartSupport is a **Django-based web application** designed to simplify the proc
 
 ---
 
-## 📁 Project Structure
-```
+## Project structure (ASCII-safe)
+
+```text
 SmartSupport/
-├── SmartSupport/        # Django project settings
-├── ticket/              # Main app handling tickets
-│   ├── templates/       # HTML templates
-│   ├── static/          # CSS/JS/Images
-│   ├── models.py        # Ticket model
-│   ├── views.py         # View logic
-│   └── urls.py          # App URLs
-├── media/               # Uploaded images
-├── db.sqlite3           # SQLite database
-└── manage.py
+|-- SmartSupport/           # Django project settings
+|-- ticket/                 # Main app handling tickets
+|   |-- templates/          # HTML templates
+|   |-- static/             # CSS/JS/Images
+|   |-- models.py           # Ticket model
+|   |-- views.py            # View logic
+|   `-- urls.py             # App URLs
+|-- media/                  # Uploaded images
+|-- db.sqlite3              # SQLite database
+`-- manage.py
 ```
 
 ---
@@ -104,5 +105,8 @@ Pull requests are welcome! If you have ideas to improve the app, feel free to fo
 
 ## 📜 License
 This project is open-source under the **MIT License**.
+
+
+
 
 
