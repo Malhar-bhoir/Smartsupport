@@ -104,7 +104,5 @@ Pull requests are welcome! If you have ideas to improve the app, feel free to fo
 
 ## 📜 License
 This project is open-source under the **MIT License**.
-```
 
----
 
