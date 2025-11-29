@@ -1,6 +1,4 @@
 
-
-```markdown
 # SmartSupport 🎓🛠️
 
 SmartSupport is a **Django-based web application** designed to simplify the process of reporting and managing campus maintenance issues. Students can raise tickets (e.g., broken fan, damaged bench), and admins can verify, update, and resolve them efficiently.
@@ -87,8 +85,7 @@ SmartSupport/
 
 ---
 
-## 📸 Screenshots
-*(Add screenshots here for better visualization of the app.)*
+
 
 ---
 
